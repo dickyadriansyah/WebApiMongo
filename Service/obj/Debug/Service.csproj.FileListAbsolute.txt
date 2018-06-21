@@ -1,0 +1,11 @@
+D:\dicky\C#\WebApiMongo\Service\bin\Debug\Service.dll
+D:\dicky\C#\WebApiMongo\Service\bin\Debug\Service.pdb
+D:\dicky\C#\WebApiMongo\Service\bin\Debug\DataModel.dll
+D:\dicky\C#\WebApiMongo\Service\bin\Debug\MongoDB.Bson.dll
+D:\dicky\C#\WebApiMongo\Service\bin\Debug\MongoDB.Driver.dll
+D:\dicky\C#\WebApiMongo\Service\bin\Debug\DataModel.pdb
+D:\dicky\C#\WebApiMongo\Service\bin\Debug\MongoDB.Bson.xml
+D:\dicky\C#\WebApiMongo\Service\bin\Debug\MongoDB.Driver.xml
+D:\dicky\C#\WebApiMongo\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+D:\dicky\C#\WebApiMongo\Service\obj\Debug\Service.dll
+D:\dicky\C#\WebApiMongo\Service\obj\Debug\Service.pdb
