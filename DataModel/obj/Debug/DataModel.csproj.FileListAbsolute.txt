@@ -1,0 +1,12 @@
+D:\dicky\C#\WebApiMongo\DataModel\bin\Debug\DataModel.dll
+D:\dicky\C#\WebApiMongo\DataModel\bin\Debug\DataModel.pdb
+D:\dicky\C#\WebApiMongo\DataModel\bin\Debug\DnsClient.dll
+D:\dicky\C#\WebApiMongo\DataModel\bin\Debug\MongoDB.Bson.dll
+D:\dicky\C#\WebApiMongo\DataModel\bin\Debug\MongoDB.Driver.dll
+D:\dicky\C#\WebApiMongo\DataModel\bin\Debug\System.Buffers.dll
+D:\dicky\C#\WebApiMongo\DataModel\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\dicky\C#\WebApiMongo\DataModel\bin\Debug\DnsClient.xml
+D:\dicky\C#\WebApiMongo\DataModel\bin\Debug\MongoDB.Bson.xml
+D:\dicky\C#\WebApiMongo\DataModel\bin\Debug\MongoDB.Driver.xml
+D:\dicky\C#\WebApiMongo\DataModel\obj\Debug\DataModel.dll
+D:\dicky\C#\WebApiMongo\DataModel\obj\Debug\DataModel.pdb
