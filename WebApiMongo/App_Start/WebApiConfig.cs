@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
+using WebApiMongo.ActionFilters;
 
 namespace WebApiMongo
 {
@@ -13,7 +14,7 @@ namespace WebApiMongo
 
             // Web API routes
             config.MapHttpAttributeRoutes();
-
+            config.Filters.Add(new LoggingFilterAttribute());
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",
                 routeTemplate: "api/{controller}/{id}",
