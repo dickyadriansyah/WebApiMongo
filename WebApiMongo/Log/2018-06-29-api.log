@@ -1,0 +1,28 @@
+2018-06-29 16:59:57.7623|INFO|WebApiMongo.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost:52537/api/Student/5b2757f3fa6d09375ccc87f5
+Controller : WebApiMongo.Controllers.StudentController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"student":{"id":{"Timestamp":0,"Machine":0,"Pid":0,"Increment":0,"CreationTime":"\/Date(0)\/"},"StudentID":2,"Name":"Joko","Address":"Cilandak familia"},"id":"5b2757f3fa6d09375ccc87f5"}]}
+
+2018-06-29 17:00:14.0803|INFO|WebApiMongo.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:52537/api/Student
+Controller : WebApiMongo.Controllers.StudentController
+Action : GetAll
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2018-06-29 17:00:57.6163|INFO|WebApiMongo.Helpers.NLogger|JSON
+Method: PUT
+URL: http://localhost:52537/api/Student/5b276132fa6d09375c617767
+Controller : WebApiMongo.Controllers.StudentController
+Action : Put
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"student":{"id":{"Timestamp":0,"Machine":0,"Pid":0,"Increment":0,"CreationTime":"\/Date(0)\/"},"StudentID":3,"Name":"Budi Octavia","Address":"Cilandak Barat"},"id":"5b276132fa6d09375c617767"}]}
+
+2018-06-29 17:01:02.2343|INFO|WebApiMongo.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:52537/api/Student
+Controller : WebApiMongo.Controllers.StudentController
+Action : GetAll
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
